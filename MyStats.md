@@ -22,5 +22,14 @@ I have a photographic memory that's almost like having a camera in my head. I re
 
 ``` Imagination is more important than knowledge.```-*Albert Einstein*
 
+---
+
+[Stack Over Flow]<https://stackoverflow.com/questions/1421068/htaccess-301-redirect-of-single-page>
+
+```
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+```
+[Htaccess]<https://css-tricks.com/snippets/htaccess/301-redirects/>
 
 
