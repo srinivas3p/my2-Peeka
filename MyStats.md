@@ -15,5 +15,11 @@ I have a photographic memory that's almost like having a camera in my head. I re
 | Sepak Takraw | This Sport is football played with net and fully uses body athleticism | 3 |
 | Golf | This Sport Great Aim And Strength | 2|
 
+---
+# Quotes That I Live By
+
+``` Science is a way of thinking, not just a body of knowledge```-*Carl Sagan
+``` Imagination is more important than knowledge.```-*Albert Einstein
+
 
 
