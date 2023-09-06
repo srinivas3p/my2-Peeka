@@ -10,3 +10,7 @@ The **Rameshwaram** is my absolute favorite vacation spot. This tropical paradis
 1. Swimming
 2. Surfing
 3. Visiting Temple
+
+* Fish Fry
+* Chicken vindaloo
+* Cabbage poriyal
