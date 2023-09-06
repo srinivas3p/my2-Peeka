@@ -18,8 +18,9 @@ I have a photographic memory that's almost like having a camera in my head. I re
 ---
 # Quotes That I Live By
 
-``` Science is a way of thinking, not just a body of knowledge```-*Carl Sagan
-``` Imagination is more important than knowledge.```-*Albert Einstein
+``` Science is a way of thinking, not just a body of knowledge```-*Carl Sagan*
+
+``` Imagination is more important than knowledge.```-*Albert Einstein*
 
 
 
